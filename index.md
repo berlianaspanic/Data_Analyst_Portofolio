@@ -1,108 +1,122 @@
 # Portfolio
 ---
-## Natural Language Processing
 
-### CS224n: Natural Language Processing with Deep Learning
+### Dashboard Project with Looker Studio
+[[View in Looker Studio](https://lookerstudio.google.com/u/0/reporting/91bf1935-d8fc-4db8-8481-67e7048cef71/page/U4CSD)]
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
+**Global COVID-19 Cases Dashboard**
+<center><img src="images/Dashboard(1).png"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+## Python Project
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+### Clustering with Python for `Mall Customer` Dataset
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Uje1KZSfwErzyVyWDEYqoa2ub_S00FcT?usp=sharing)
+  
+<div style="text-align: justify">Clustering is a technique of machine learning algorithms, namely unsupervised learning. The clustering algorithm divides the population or data points with the same characteristics into several small groups to be grouped. This technique is one of the algorithms in machine learning that is most often used by companies to segment their customers so that they can increase sales in their company.
+<center><img src="images/14(1).png"/></center>
+<center><img src="images/14(2).png"/></center>
+<center><img src="images/14(3).png"/></center>
+<center><img src="images/14(4).png"/></center>
+  
+---
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+### Regression Modelling with Python for `House Prices` Dataset
 
-<center><img src="images/BERT-classification.png"/></center>
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Uje1KZSfwErzyVyWDEYqoa2ub_S00FcT?usp=sharing)
+
+<div style="text-align: justify">Regression is a method that functions to predict or estimate the effect of two or more certain functional variables.
+
+<center><img src="images/13(1).png"/></center>
+<center><img src="images/13(2).png"/></center>
+<center><img src="images/13(3).png"/></center>
+  
+---
+
+### Exploratory Data Analysis for `Telco Churn` Dataset
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1P4ZaU8csXi4R_cEiMGoo8eh3bg2-8lve?usp=sharing)
+
+<div style="text-align: justify">Exploratory Data Analysis is an approach to analyze the data to discover trends, patterns, or to find assumptions with the help of statistical summary and graphical representations. Important things in Exploratory Data Analysis is identify errors in dataset, gives a better understanding of the dataset, detect outliers, understand dataset variables and the relationship among them.
+
+<center><img src="images/1112(1).png"/></center>
+<center><img src="images/1112(2).png"/></center>
+<center><img src="images/1112(3).png"/></center>
+<center><img src="images/1112(4).png"/></center>
+  
+---
+
+### Statistics for Data Analysis
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1gu0FjTbDHo7P2SWscNA2jeytcKK36BH4?usp=sharing)
+
+<div style="text-align: justify">In this project using diabetes patient dataset, shown the Descriptive Statistics measure of central tendency, measure of spread, and distribution of each variabels data.
+
+<center><img src="images/910(1).png"/></center>
+<center><img src="images/910(2).png"/></center>
+<center><img src="images/910(3).png"/></center>
+<center><img src="images/910(4).png"/></center>
+  
+---
+
+### Data Visualization in Python
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1KKZjnpatVzWa0TDHTAqvxQGJbaRY6Peb?usp=sharing)
+
+<div style="text-align: justify">Data Visualization is the graphical representation of information and data. There are 4 pillars of 
+visualization: Comparison, Distribution, Relationship, and Composition. In this project, Visualization data using Barplot to Comparison, Distplot and Boxplot to Distribution, Scatterplot to Relationship, and Piechart to Composition.
+
+<center><img src="images/78(1).png"/></center>
+<center><img src="images/78(2).png"/></center>
+<center><img src="images/78(3).png"/></center>
+<center><img src="images/78(4).png"/></center>
+<center><img src="images/78(5).png"/></center>
+  
+---
+
+### Data Preprocessing with Pandas
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1kkOddZ--CsbZ-dv8Twa1rqdxecJ77DCN?usp=sharing)
+
+<div style="text-align: justify">Data preprocessing is the process of converting raw data into a form that is easier to understand. In this project, data preprocessing is done using the join, merge, delete, rename, group by, and aggregation functions.
+
+<center><img src="images/6(1).png"/></center>
+<center><img src="images/6(2).png"/></center>
+<center><img src="images/6(3).png"/></center>
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+### `Telco Chrun` Dataset Cleansing and Handling
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
-<br>
-<center><img src="images/fb-food-trends.png"></center>
-<br>
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/12M2UCruBLl3HP2kJbEaTSVbOQfGIQ0i4?usp=sharing)
 
----
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
+<div style="text-align: justify">Data cleansing is the process of modifying or deleting data that is considered inaccurate, duplicate,
+incomplete, malformed, or damaged in the data set owned. Data cleansing is related
+with the preparation of data for the needs of data analysis later. Data cleansing needs to be done because
+data is never available in a clean state / ready for direct analysis. In addition, usually data
+has various problems that can hinder the analysis process such as Inconsistent column
+names, Missing data, Outliers, and so on.
+  
+  Data cleaning has been carried out with the aim of:
+1. Missing value checking and handling
+2. Categorical data encoding
+3. Outlier handling.</div>
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
-
-<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
-<br>
-<center><img src="images/detect-spam-nlp.png"/></center>
-<br>
-
----
-## Data Science
-
-### Credit Risk Prediction Web App
-
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
-
-<div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
-<br>
-<center><img src="images/credit-risk-webapp.png"/></center>
-<br>
+<center><img src="images/5(1).png"/></center>
+<center><img src="images/5(2).png"/></center>
+<center><img src="images/5(3).png"/></center>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
+### GUI Python R & S Control Chart 
 
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
-<br>
-<center><img src="images/ames-house-price.jpg"/></center>
-<br>
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1APqRRutfv6JwQNpHtxN1QEyI9IkS9AZH?usp=sharing)
 
----
-### Predict Breast Cancer with RF, PCA and SVM using Python
+<div style="text-align: justify">Control chart serves as a tool to communicate information about performance of a process between production groups between suppliers or between machine operators. Meanwhile, the statistical control chart or control chart is a method Statistics used to describe variations or deviations from quality (quality) of the desired production results. An example of a control chart is a control chart R and S. Control chart R is the control chart used to monitor the level of accuracy of the process by looking for a range of samples. While the control chart S is a control chart used to monitor the level of accuracy of the process by finding the standard deviation of the sample. Graphical user interface (GUI) is a system of interactive visual components for computer software. The GUI displays objects that can convey information and represents the action of the user. With the GUI, we can know that what we input has been received and the response is shown visually.</div>
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
-
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
-<br>
-<center><img src="images/breast-cancer.png"/></center>
-<br>
+<center><img src="images/GUISpanic1.png"/></center>
+<center><img src="images/GUISpanic2.png"/></center>
 
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
-
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
-<br>
-<center><img src="images/bac2018.JPG"/></center>
-<br>
-
----
-## Filmed by me
-
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
-<br>
-
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
-
----
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+_**Create by berlianaspanic**_
