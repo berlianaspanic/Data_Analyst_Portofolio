@@ -11,15 +11,14 @@
 ## SQL Project for _dvdrental_ Dataset
 [[View in Google Drive](https://drive.google.com/file/d/1dMi9vW5UKL4p3B84dJ2Sz26ytQth6p-3/view?usp=sharing)]
 
-<div style="text-align: justify">By using PostrageSQL, several variables will be searched as follows:
-  
+<div style="text-align: justify">By using PostrageSQL, several variables will be searched as follows:</div>
 1. The top 10 customers and their email so we can reward them.
 2. The bottom 10 customers and their emails.
 3. The most profitable movie genres (ratings).
 4. The number of movies were returned late, early, and on time.
 5. The customer base in the countries where we have a presence.
 6. The most profitable country for the business.
-7. The average rental rate per film genre (rating).</div>
+7. The average rental rate per film genre (rating).
 <center><img src="images/SQL(1).png"/></center>
 <center><img src="images/SQL(2).png"/></center>
 
@@ -95,11 +94,10 @@ incomplete, malformed, or damaged in the data set owned. Data cleansing is relat
 with the preparation of data for the needs of data analysis later. Data cleansing needs to be done because
 data is never available in a clean state / ready for direct analysis. In addition, usually data
 has various problems that can hinder the analysis process such as Inconsistent column
-names, Missing data, Outliers, and so on.Data cleaning has been carried out with the aim of:
-  
+names, Missing data, Outliers, and so on.Data cleaning has been carried out with the aim of:</div>
 1. Missing value checking and handling
 2. Categorical data encoding
-3. Outlier handling.</div>
+3. Outlier handling.
 <center><img src="images/5(1).png"/></center>
 <center><img src="images/5(2).png"/></center>
 <center><img src="images/5(3).png"/></center>
