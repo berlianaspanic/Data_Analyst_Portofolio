@@ -1,6 +1,7 @@
 # Portofolio
 
 ---
+---
 ## Dashboard Project with Looker Studio
 [[View in Looker Studio](https://lookerstudio.google.com/u/0/reporting/91bf1935-d8fc-4db8-8481-67e7048cef71/page/U4CSD)]
 
@@ -8,7 +9,8 @@
 <center><img src="images/Dashboard(1).png"/></center>
 
 ---
-### SQL Project for `dvdrental` Dataset
+---
+## SQL Project for _dvdrental_ Dataset
 [[View in Google Drive](https://drive.google.com/file/d/1dMi9vW5UKL4p3B84dJ2Sz26ytQth6p-3/view?usp=sharing)]
 
 By using PostrageSQL, several variables will be searched as follows:
@@ -24,9 +26,11 @@ By using PostrageSQL, several variables will be searched as follows:
 <center><img src="images/SQL(2).png"/></center>
 
 ---
+---
 ## Python Project
 
-### Clustering with Python for Mall Customer Dataset
+---
+### Clustering with Python for _Mall Customer_ Dataset
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Uje1KZSfwErzyVyWDEYqoa2ub_S00FcT?usp=sharing)
 
 Clustering is a technique of machine learning algorithms, namely unsupervised learning. The clustering algorithm divides the population or data points with the same characteristics into several small groups to be grouped. This technique is one of the algorithms in machine learning that is most often used by companies to segment their customers so that they can increase sales in their company.
@@ -36,7 +40,7 @@ Clustering is a technique of machine learning algorithms, namely unsupervised le
 <center><img src="images/14(4).png"/></center>
 
 ---
-### Regression Modelling with Python for `House Prices` Dataset
+### Regression Modelling with Python for _House Prices_ Dataset
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Uje1KZSfwErzyVyWDEYqoa2ub_S00FcT?usp=sharing)
 
@@ -47,7 +51,7 @@ Regression is a method that functions to predict or estimate the effect of two o
 <center><img src="images/13(3).png"/></center>
 
 ---
-### Exploratory Data Analysis for `Telco Churn` Dataset
+### Exploratory Data Analysis for _Telco Churn_ Dataset
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1P4ZaU8csXi4R_cEiMGoo8eh3bg2-8lve?usp=sharing)
 
@@ -63,7 +67,7 @@ Exploratory Data Analysis is an approach to analyze the data to discover trends,
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1gu0FjTbDHo7P2SWscNA2jeytcKK36BH4?usp=sharing)
 
-In this project using diabetes patient dataset, shown the Descriptive Statistics measure of central tendency, measure of spread, and distribution of each variabels data.
+In this project using _diabetes patient_ dataset, shown the Descriptive Statistics measure of central tendency, measure of spread, and distribution of each variabels data.
 
 <center><img src="images/910(1).png"/></center>
 <center><img src="images/910(2).png"/></center>
@@ -96,7 +100,7 @@ Data preprocessing is the process of converting raw data into a form that is eas
 <center><img src="images/6(3).png"/></center>
 
 ---
-### Telco Chrun Dataset Cleansing and Handling
+### _Telco Chrun_ Dataset Cleansing and Handling
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/12M2UCruBLl3HP2kJbEaTSVbOQfGIQ0i4?usp=sharing)
 
