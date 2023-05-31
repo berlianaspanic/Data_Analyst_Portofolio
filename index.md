@@ -28,8 +28,8 @@ By using PostrageSQL, several variables will be searched as follows:
 
 ### Clustering with Python for Mall Customer Dataset
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Uje1KZSfwErzyVyWDEYqoa2ub_S00FcT?usp=sharing)
-  
-<div style="text-align: justify">Clustering is a technique of machine learning algorithms, namely unsupervised learning. The clustering algorithm divides the population or data points with the same characteristics into several small groups to be grouped. This technique is one of the algorithms in machine learning that is most often used by companies to segment their customers so that they can increase sales in their company.
+
+Clustering is a technique of machine learning algorithms, namely unsupervised learning. The clustering algorithm divides the population or data points with the same characteristics into several small groups to be grouped. This technique is one of the algorithms in machine learning that is most often used by companies to segment their customers so that they can increase sales in their company.
 <center><img src="images/14(1).png"/></center>
 <center><img src="images/14(2).png"/></center>
 <center><img src="images/14(3).png"/></center>
@@ -40,7 +40,7 @@ By using PostrageSQL, several variables will be searched as follows:
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Uje1KZSfwErzyVyWDEYqoa2ub_S00FcT?usp=sharing)
 
-<div style="text-align: justify">Regression is a method that functions to predict or estimate the effect of two or more certain functional variables.
+Regression is a method that functions to predict or estimate the effect of two or more certain functional variables.
 
 <center><img src="images/13(1).png"/></center>
 <center><img src="images/13(2).png"/></center>
@@ -51,7 +51,7 @@ By using PostrageSQL, several variables will be searched as follows:
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1P4ZaU8csXi4R_cEiMGoo8eh3bg2-8lve?usp=sharing)
 
-<div style="text-align: justify">Exploratory Data Analysis is an approach to analyze the data to discover trends, patterns, or to find assumptions with the help of statistical summary and graphical representations. Important things in Exploratory Data Analysis is identify errors in dataset, gives a better understanding of the dataset, detect outliers, understand dataset variables and the relationship among them.
+Exploratory Data Analysis is an approach to analyze the data to discover trends, patterns, or to find assumptions with the help of statistical summary and graphical representations. Important things in Exploratory Data Analysis is identify errors in dataset, gives a better understanding of the dataset, detect outliers, understand dataset variables and the relationship among them.
 
 <center><img src="images/1112(1).png"/></center>
 <center><img src="images/1112(2).png"/></center>
@@ -63,7 +63,7 @@ By using PostrageSQL, several variables will be searched as follows:
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1gu0FjTbDHo7P2SWscNA2jeytcKK36BH4?usp=sharing)
 
-<div style="text-align: justify">In this project using diabetes patient dataset, shown the Descriptive Statistics measure of central tendency, measure of spread, and distribution of each variabels data.
+In this project using diabetes patient dataset, shown the Descriptive Statistics measure of central tendency, measure of spread, and distribution of each variabels data.
 
 <center><img src="images/910(1).png"/></center>
 <center><img src="images/910(2).png"/></center>
@@ -75,7 +75,7 @@ By using PostrageSQL, several variables will be searched as follows:
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1KKZjnpatVzWa0TDHTAqvxQGJbaRY6Peb?usp=sharing)
 
-<div style="text-align: justify">Data Visualization is the graphical representation of information and data. There are 4 pillars of 
+Data Visualization is the graphical representation of information and data. There are 4 pillars of 
 visualization: Comparison, Distribution, Relationship, and Composition. In this project, Visualization data using Barplot to Comparison, Distplot and Boxplot to Distribution, Scatterplot to Relationship, and Piechart to Composition.
 
 <center><img src="images/78(1).png"/></center>
@@ -89,7 +89,7 @@ visualization: Comparison, Distribution, Relationship, and Composition. In this 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1kkOddZ--CsbZ-dv8Twa1rqdxecJ77DCN?usp=sharing)
 
-<div style="text-align: justify">Data preprocessing is the process of converting raw data into a form that is easier to understand. In this project, data preprocessing is done using the join, merge, delete, rename, group by, and aggregation functions.
+Data preprocessing is the process of converting raw data into a form that is easier to understand. In this project, data preprocessing is done using the join, merge, delete, rename, group by, and aggregation functions.
 
 <center><img src="images/6(1).png"/></center>
 <center><img src="images/6(2).png"/></center>
@@ -100,7 +100,7 @@ visualization: Comparison, Distribution, Relationship, and Composition. In this 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/12M2UCruBLl3HP2kJbEaTSVbOQfGIQ0i4?usp=sharing)
 
-<div style="text-align: justify">Data cleansing is the process of modifying or deleting data that is considered inaccurate, duplicate,
+Data cleansing is the process of modifying or deleting data that is considered inaccurate, duplicate,
 incomplete, malformed, or damaged in the data set owned. Data cleansing is related
 with the preparation of data for the needs of data analysis later. Data cleansing needs to be done because
 data is never available in a clean state / ready for direct analysis. In addition, usually data
@@ -121,7 +121,7 @@ names, Missing data, Outliers, and so on.
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1APqRRutfv6JwQNpHtxN1QEyI9IkS9AZH?usp=sharing)
 
-<div style="text-align: justify">Control chart serves as a tool to communicate information about performance of a process between production groups between suppliers or between machine operators. Meanwhile, the statistical control chart or control chart is a method Statistics used to describe variations or deviations from quality (quality) of the desired production results. An example of a control chart is a control chart R and S. Control chart R is the control chart used to monitor the level of accuracy of the process by looking for a range of samples. While the control chart S is a control chart used to monitor the level of accuracy of the process by finding the standard deviation of the sample. Graphical user interface (GUI) is a system of interactive visual components for computer software. The GUI displays objects that can convey information and represents the action of the user. With the GUI, we can know that what we input has been received and the response is shown visually.</div>
+Control chart serves as a tool to communicate information about performance of a process between production groups between suppliers or between machine operators. Meanwhile, the statistical control chart or control chart is a method Statistics used to describe variations or deviations from quality (quality) of the desired production results. An example of a control chart is a control chart R and S. Control chart R is the control chart used to monitor the level of accuracy of the process by looking for a range of samples. While the control chart S is a control chart used to monitor the level of accuracy of the process by finding the standard deviation of the sample. Graphical user interface (GUI) is a system of interactive visual components for computer software. The GUI displays objects that can convey information and represents the action of the user. With the GUI, we can know that what we input has been received and the response is shown visually.</div>
 
 <center><img src="images/GUISpanic1.png"/></center>
 <center><img src="images/GUISpanic2.png"/></center>
