@@ -90,7 +90,7 @@ visualization: Comparison, Distribution, Relationship, and Composition. In this 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1kkOddZ--CsbZ-dv8Twa1rqdxecJ77DCN?usp=sharing)
 
-Data preprocessing is the process of converting raw data into a form that is easier to understand. In this project, data preprocessing is done using the join, merge, delete, rename, group by, and aggregation functions.
+<div style="text-align: justify">Data preprecessing is the process of converting raw data into a form that is easier to understand. In this project, data preprocessing is done using the join, merge, delete, rename, group by, and aggregation functions.</div>
 
 <center><img src="images/6(1).png"/></center>
 <center><img src="images/6(2).png"/></center>
@@ -101,7 +101,7 @@ Data preprocessing is the process of converting raw data into a form that is eas
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/12M2UCruBLl3HP2kJbEaTSVbOQfGIQ0i4?usp=sharing)
 
-Data cleansing is the process of modifying or deleting data that is considered inaccurate, duplicate,
+<div style="text-align: justify">Data cleansing is the process of modifying or deleting data that is considered inaccurate, duplicate,
 incomplete, malformed, or damaged in the data set owned. Data cleansing is related
 with the preparation of data for the needs of data analysis later. Data cleansing needs to be done because
 data is never available in a clean state / ready for direct analysis. In addition, usually data
@@ -122,7 +122,7 @@ names, Missing data, Outliers, and so on.
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1APqRRutfv6JwQNpHtxN1QEyI9IkS9AZH?usp=sharing)
 
-Control chart serves as a tool to communicate information about performance of a process between production groups between suppliers or between machine operators. Meanwhile, the statistical control chart or control chart is a method Statistics used to describe variations or deviations from quality (quality) of the desired production results. An example of a control chart is a control chart R and S. Control chart R is the control chart used to monitor the level of accuracy of the process by looking for a range of samples. While the control chart S is a control chart used to monitor the level of accuracy of the process by finding the standard deviation of the sample. Graphical user interface (GUI) is a system of interactive visual components for computer software. The GUI displays objects that can convey information and represents the action of the user. With the GUI, we can know that what we input has been received and the response is shown visually.</div>
+<div style="text-align: justify">Control chart serves as a tool to communicate information about performance of a process between production groups between suppliers or between machine operators. Meanwhile, the statistical control chart or control chart is a method Statistics used to describe variations or deviations from quality (quality) of the desired production results. An example of a control chart is a control chart R and S. Control chart R is the control chart used to monitor the level of accuracy of the process by looking for a range of samples. While the control chart S is a control chart used to monitor the level of accuracy of the process by finding the standard deviation of the sample. Graphical user interface (GUI) is a system of interactive visual components for computer software. The GUI displays objects that can convey information and represents the action of the user. With the GUI, we can know that what we input has been received and the response is shown visually.</div>
 
 <center><img src="images/GUISpanic1.png"/></center>
 <center><img src="images/GUISpanic2.png"/></center>
