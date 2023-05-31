@@ -1,14 +1,12 @@
 # Portofolio
 
 ---
----
 ## Dashboard Project with Looker Studio
 [[View in Looker Studio](https://lookerstudio.google.com/u/0/reporting/91bf1935-d8fc-4db8-8481-67e7048cef71/page/U4CSD)]
 
 **Global COVID-19 Cases Dashboard**
 <center><img src="images/Dashboard(1).png"/></center>
 
----
 ---
 ## SQL Project for _dvdrental_ Dataset
 [[View in Google Drive](https://drive.google.com/file/d/1dMi9vW5UKL4p3B84dJ2Sz26ytQth6p-3/view?usp=sharing)]
@@ -25,7 +23,6 @@ By using PostrageSQL, several variables will be searched as follows:
 <center><img src="images/SQL(1).png"/></center>
 <center><img src="images/SQL(2).png"/></center>
 
----
 ---
 ## Python Project
 
