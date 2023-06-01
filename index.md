@@ -1,4 +1,5 @@
 # Portfolio
+This is my portfolio when Learning Data Analysis &#128071;
 
 ---
 ## Dashboard Project with Looker Studio
