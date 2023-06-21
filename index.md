@@ -123,4 +123,12 @@ names, Missing data, Outliers, and so on. Data cleaning has been carried out wit
 <center><img src="images/GUISpanic2.png"/></center>
 
 ---
+### GUI R (ARIMA) 
+[![Run in Google Drive](https://img.shields.io/badge/Drive-Look_in_Google_Drive-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1S5N2NQIKHhVFq61bWn4M_4r2z7bSO-Cw/view?usp=sharing)
+
+<div style="text-align: justify">The ARIMA method is a time series data analysis method that is often used for forecasting. In this project, loading the GUI R for processing the ARIMA method is intended to obtain the best model of all possible time series models..</div>
+<center><img src="images/GUISpanic3.png"/></center>
+<center><img src="images/GUISpanic4.png"/></center>
+
+---
 _**Create by berlianaspanic**_
