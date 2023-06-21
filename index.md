@@ -129,6 +129,7 @@ names, Missing data, Outliers, and so on. Data cleaning has been carried out wit
 <div style="text-align: justify">The ARIMA method is a time series data analysis method that is often used for forecasting. In this project, loading the GUI R for processing the ARIMA method is intended to obtain the best model of all possible time series models..</div>
 <center><img src="images/GUISpanic3.png"/></center>
 <center><img src="images/GUISpanic4.png"/></center>
+<center><img src="images/GUISpanic5.png"/></center>
 
 ---
 _**Create by berlianaspanic**_
