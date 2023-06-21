@@ -13,7 +13,7 @@ This is my portfolio when Learning Data Analysis &#128071;
 
 ---
 ### Home Credit Applicant's Classification Analysis Dashboard
-[[View in Looker Studio](https://lookerstudio.google.com/u/0/reporting/0cded7d8-bbeb-4d05-b247-606c45186cd4/page/p_88wc80h06c)]
+[![Run in Looker Studio](https://images.app.goo.gl/HAHhhkd5AzgLgZ9G8)](https://lookerstudio.google.com/u/0/reporting/0cded7d8-bbeb-4d05-b247-606c45186cd4/page/p_88wc80h06c)
 
 <div style="text-align: justify">In this project, there are two dashboard which have different function. The Home Credit Application Dashboard contains application information regarding the distribution of Gender, Age, Occupation and income, various assets owned, to credit registrations that have been submitted for each category of applicants, namely applicants who are considered to have the potential to default (1) and applicants who considered as having no potential for default (0). Meanwhile, the Home Credit Applicant's Analysis Result Dashboard contains the results of the analysis using the decision tree model that has been carried out where there is information about the features that have the highest correlation with the classification results, comparison of predicted and actual results, as well as an evaluation in the form of a confusion metric value which shows the evaluation value from the best model chosen, namely the decision tree.</div>
 <center><img src="images/Dashboard(2).png"/></center>
