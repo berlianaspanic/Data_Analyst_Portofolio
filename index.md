@@ -1,5 +1,30 @@
 # Portfolio
-This is my portfolio when Learning Data Analysis &#128071;
+This is my portfolio when Learning and Work Data Analysis &#128071;
+
+---
+## Intern Project
+[![Run in Google Drive](https://img.shields.io/badge/Drive-Look_in_Google_Drive-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1axdzNJ64ntTXTV1lIfm-N6b7Y_p6o-pW/view?usp=sharing)
+
+---
+### Summary Transactiton Template 
+<div style="text-align: justify">Summary Transaction Template Project is the creation of a template that produces summary transaction data more efficiently to help business control. There are 2 types of templates, namely QR Based and Card Based. In this internship project, I created a Transaction Template Summary using 2 software options, namely Microsoft Excel and Google Collaboratory. Microsoft Excel is easier to use but Google Colaboratory is more capable of processing large data more efficiently.
+<center><img src="images/Jak(1).png"/></center></div>
+<center><img src="images/Jak(2).png"/></center></div>
+<center><img src="images/Jak(3).png"/></center></div>
+<center><img src="images/Jak(4).png"/></center></div>
+<center><img src="images/Jak(5).png"/></center></div>
+
+---
+### Revenue Report Automation 
+<div style="text-align: justify">Revenue Report Automation Project is a more concise form of the summary transaction template. This automation creates weekly transaction data summaries more efficiently to help business control. This internship project was created using Google Collaboratory software which is capable of processing large data more efficiently.
+<center><img src="images/Jak(6).png"/></center></div>
+<center><img src="images/Jak(7).png"/></center></div>
+
+---
+### Route Analysis 
+<div style="text-align: justify">Route analysis is a project to analyze transportation mode transaction data to obtain insight, especially on the level of usage, which is used to help business development.
+<center><img src="images/Jak(8).png"/></center></div>
+<center><img src="images/Jak(9).png"/></center></div>
 
 ---
 ## Dashboard Project with Looker Studio
@@ -121,6 +146,9 @@ names, Missing data, Outliers, and so on. Data cleaning has been carried out wit
 <div style="text-align: justify">Control chart serves as a tool to communicate information about performance of a process between production groups between suppliers or between machine operators. Meanwhile, the statistical control chart or control chart is a method Statistics used to describe variations or deviations from quality (quality) of the desired production results. An example of a control chart is a control chart R and S. Control chart R is the control chart used to monitor the level of accuracy of the process by looking for a range of samples. While the control chart S is a control chart used to monitor the level of accuracy of the process by finding the standard deviation of the sample. Graphical user interface (GUI) is a system of interactive visual components for computer software. The GUI displays objects that can convey information and represents the action of the user. With the GUI, we can know that what we input has been received and the response is shown visually.</div>
 <center><img src="images/GUISpanic1.png"/></center>
 <center><img src="images/GUISpanic2.png"/></center>
+
+---
+## R Studio
 
 ---
 ### GUI R (ARIMA) 
